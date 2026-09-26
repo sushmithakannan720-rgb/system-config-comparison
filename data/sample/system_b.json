@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "tool": "System Configuration Comparison Tool",
+        "app_version": "1.0",
+        "captured_at": "2026-09-16 14:02:10",
+        "hostname": "DESKTOP-SYSTEMB",
+        "note": "Sample configuration for demonstration and testing - not a scan of a real machine."
+    },
+    "system": {
+        "operating_system": "Windows",
+        "version": "10",
+        "build": "10.0.19045",
+        "architecture": "64-bit",
+        "machine": "AMD64",
+        "hostname": "DESKTOP-SYSTEMB"
+    },
+    "cpu": {
+        "name": "Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz",
+        "cores": 8,
+        "logical_processors": 8,
+        "usage_percent": 15.1
+    },
+    "memory": {
+        "total": 17179869184,
+        "used": 12884901888,
+        "available": 4294967296,
+        "usage_percent": 75.0
+    },
+    "storage": {
+        "total": 1099511627776,
+        "used": 483183820800,
+        "free": 616327806976,
+        "usage_percent": 43.9
+    },
+    "network": {
+        "hostname": "DESKTOP-SYSTEMB",
+        "ip_address": "192.168.1.102"
+    }
+}

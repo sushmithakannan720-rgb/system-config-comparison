@@ -1,0 +1,6 @@
+# System Configuration Comparison Tool — Python dependencies
+# (tkinter ships with the official Python installer on Windows;
+#  on Linux install it with:  sudo apt install python3-tk)
+
+psutil>=5.9
+customtkinter>=5.2,<7

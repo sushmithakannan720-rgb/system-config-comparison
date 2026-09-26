@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# generated reports (keep the bundled example)
+reports/*.html
+!reports/example_report.html
+
+# logs
+logs/
+*.log
+
+# OS / IDE noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

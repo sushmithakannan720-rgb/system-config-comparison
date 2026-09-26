@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "tool": "System Configuration Comparison Tool",
+        "app_version": "1.0",
+        "captured_at": "2026-09-15 10:24:31",
+        "hostname": "DESKTOP-SYSTEMA",
+        "note": "Sample configuration for demonstration and testing - not a scan of a real machine."
+    },
+    "system": {
+        "operating_system": "Windows",
+        "version": "11",
+        "build": "10.0.22631",
+        "architecture": "64-bit",
+        "machine": "AMD64",
+        "hostname": "DESKTOP-SYSTEMA"
+    },
+    "cpu": {
+        "name": "Intel(R) Core(TM) i5-12400 CPU @ 2.50GHz",
+        "cores": 6,
+        "logical_processors": 12,
+        "usage_percent": 22.4
+    },
+    "memory": {
+        "total": 8589934592,
+        "used": 3221225472,
+        "available": 5368709120,
+        "usage_percent": 37.5
+    },
+    "storage": {
+        "total": 549755813888,
+        "used": 268435456000,
+        "free": 281320357888,
+        "usage_percent": 48.8
+    },
+    "network": {
+        "hostname": "DESKTOP-SYSTEMA",
+        "ip_address": "192.168.1.101"
+    }
+}
